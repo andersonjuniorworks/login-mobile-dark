@@ -26,6 +26,11 @@
     background: var(--grey);
     color: #f5f5f5;
     font-size: 14px;
+    transition: .25s ease-in-out;
+}
+
+.form-input:focus {
+    border: 1px solid #4E009B;
 }
 
 .form-link {
