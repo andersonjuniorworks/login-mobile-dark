@@ -30,7 +30,7 @@
 }
 
 .form-input:focus {
-    border: 1px solid #4E009B;
+    border: drop-shadow(0px 0px 20px #000AFF);
 }
 
 .form-link {
